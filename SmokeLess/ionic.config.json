@@ -1,0 +1,7 @@
+{
+  "name": "SmokeLess",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
